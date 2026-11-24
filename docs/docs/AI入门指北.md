@@ -476,6 +476,14 @@ AI4Sci是一个快速发展且影响深远的方向，如果你对科学有浓�
 | ZOMI 酱          | Bilibili | [ZOMI 酱](https://space.bilibili.com/517221395)             |
 | AI老兵文哲          | Bilibili | [AI老兵文哲](https://space.bilibili.com/472543316)             |
 
+## 优质 AI 技术博客
+
+相比公众号优质的技术博客往往能够提供更加系统、深入的技术解读与研究分析。推荐有一定英语阅读能力的同学长期关注以下博客
+
+| 博客名称 | 简介 | 网址 |
+| :--- | :--- | :--- |
+| Ahead of AI | Sebastian Raschka 主笔，聚焦大语言模型、深度学习、论文解读与模型训练实践，兼具理论深度与实践价值。 | [访问博客](https://magazine.sebastianraschka.com/) |
+| Import AI | Jack Clark 主笔，关注人工智能前沿研究、行业动态、AI 安全与政策发展，适合了解 AI 领域的宏观趋势。 | [访问博客](https://importai.substack.com/) |
 ## 相关公众号
 
 | 公众号         | 微信号 / 搜索名         | 主要方向                     | 相关入口                                                 |
